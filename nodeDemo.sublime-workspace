@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fact",
+				"facttagMod"
+			],
+			[
+				"Spe",
+				"Specs"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 131.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/nodeDemo"
+	],
+	"file_history":
+	[
+		"/C/Users/ssuggs/Desktop/sample/index.html",
+		"/C/Users/ssuggs/Desktop/temp/index.html",
+		"/C/Users/ssuggs/Desktop/sites-brownstone.xml",
+		"/C/Users/ssuggs/Desktop/Database_Connection.php",
+		"/K/projects_2/tempDev/Untitled-2.js",
+		"/C/Users/ssuggs/Desktop/testing.html",
+		"/C/projects/WebGL_Testing/assets/threeJSEditor_Export.json",
+		"/C/projects/nodeDemo/nodeDemo.js",
+		"/C/VS-Projects/HP3DSalesTool/AppShell/bin/Debug/MasterConfig.xml",
+		"/C/projects/hess/27858_hess_digital_signage/dev/22523_Hess_2013_Digital_Signage_Enhancements/assets/get_urls_by_zipcode_list_multi_040615.py",
+		"/C/projects/WebGL_Testing/assets/simple.js",
+		"/C/projects/WebGL_Testing/threejs.html",
+		"/C/projects/mobilecogs/public/index.html",
+		"//iweb/web/22480_Robert_Ellis_Interactive_Video/www/config.inc.php",
+		"//iweb/web/22480_Robert_Ellis_Interactive_Video/www/index.php",
+		"/C/Users/ssuggs/Downloads/KURARAYAMERICAINC-KaizenKonnectJuly/index.html",
+		"/C/projects/mobilecogs/server.js",
+		"/C/projects/mobilecogs/public/index.js",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Commercial/bin/Debug/Assets/Config.xml",
+		"/C/Program Files (x86)/HP/HP 3D Sales Tool Enterprise/Assets/Config.xml",
+		"/C/projects/nodeDemo/nodetest.txt",
+		"/C/Users/ssuggs/Desktop/Config.xml",
+		"//vm2/Sites/beta.adcetera.com/friendslikethose/.htaccess",
+		"//iweb/web/22480_Robert_Ellis_Interactive_Video/www/js/ThreeWebGL.js",
+		"//iweb/web/22480_Robert_Ellis_Interactive_Video/www/js/Three.js",
+		"//iweb/web/22480_Robert_Ellis_Interactive_Video/www/js/ThreeExtras.js",
+		"//vm2/Sites/beta.adcetera.com/friendslikethose/Database.class.php",
+		"/W/28115_HP_NFM/release/xml/data.xml",
+		"/W/28115_HP_NFM/release/28115_HP_NFM_update7-app.xml",
+		"/C/projects/hess/27858_hess_digital_signage/dev/22523_Hess_2013_Digital_Signage_Enhancements/assets/rssreader-031015.vbs",
+		"/C/Program Files (x86)/HP/HP Business Product Guide/Interface/style.css",
+		"//iweb/Web/28676_HP_business_product_tour/Releases/v1.0/HP_Business_Product_Guide.msi",
+		"/C/Program Files (x86)/HP/HP Business Product Guide/Assets/Config.xml",
+		"/C/projects/vinyl.it/README.md",
+		"/C/projects/WebGL_Testing/Simple.file.html",
+		"//3D/Users/Hightower/__VIP_WebGL/threeJSEditor_Export.json",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Commercial/bin/Debug/Assets/Families/Commercial_Notebooks_Elite/FamilyConfig.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Commercial/bin/Debug/Assets/Families/Commercial_Notebooks_Pro/FamilyConfig.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/bin/Debug/Assets/Config.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/bin/Debug/Assets/MasterConfig-LOCAL.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/bin/Debug/Assets/MasterConfig-DEV.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Commercial/bin/Debug/Assets/MasterConfig.xml",
+		"/C/projects/hp/temp/index.html",
+		"/C/Users/ssuggs/Desktop/1435008709693xr6kkh15g/assets/68.msh.js",
+		"/C/Users/ssuggs/Desktop/1435008709693xr6kkh15g/assets/41.msh.js",
+		"/C/Users/ssuggs/Desktop/1435008709693xr6kkh15g/assets/published.prj.js",
+		"/C/Users/ssuggs/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ssuggs/Desktop/1435008709693xr6kkh15g/offline.html",
+		"/K/projects_2/hp/25116_HP_3D_sales_tool/seq2vid/index.html",
+		"/K/projects_2/hp/25116_HP_3D_sales_tool/v4/iss.core.js",
+		"/K/projects_2/hp/25116_HP_3D_sales_tool/v4/iss.data.js",
+		"/C/projects/hp/3DST/Interface/JS/working/iss.navigation.js",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/bin/Debug/Assets/MasterConfig-LIVE.xml",
+		"/K/projects_2/hp/25116_HP_3D_sales_tool/v4/iss.core.VIDEO.js",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/bin/Debug/Assets/Families/Apollo8000_6Rack/FamilyConfig.xml",
+		"/K/projects_2/afglobal/27398_afglobal_banners/720x90_May/27398_afglobal_720x90_may_r3.html",
+		"//3D/Users/Hightower/__VIP_WebGL/Testing/Simple/html/assets/three.min.js",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/Commercial_Notebooks_Elite/FamilyConfig.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/bin/Debug/Assets/Families/beta_prod_good_1/FamilyConfig.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/bin/Debug/Assets/MasterConfig.xml",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v4/Config.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/MasterConfig.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/Config.xml",
+		"/C/Users/ssuggs/Desktop/FileZilla.xml",
+		"/C/Users/ssuggs/Desktop/MasterConfig.xml",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v4/sync/assets/Families/Core_Servers_Gen9/FamilyConfig-jrc.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/Families/Blade_System/FamilyConfig.xml",
+		"/C/projects/mobilecogs/node_modules/express/package.json",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/Families/Blade_System_SuperRack/FamilyConfig.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/Families/Core_Servers_Gen9/FamilyConfig.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/Families/Apollo8000_6Rack/FamilyConfig.xml",
+		"/K/projects_2/stallion_hack/wp-class.php",
+		"/K/projects_2/stallion_hack/w.htm",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Commercial/bin/Debug/Assets/Families/Blade_System_SuperRack/FamilyConfig.xml",
+		"/C/Program Files (x86)/HP/HP 3D Sales Tool Commercial/Assets/Config.xml",
+		"/C/Users/ssuggs/AppData/Local/3D Sales Tool/Cache/Assets/Config.xml",
+		"/C/Program Files (x86)/HP/HP 3D Sales Tool/Assets/Config.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/app.manifest",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/assets/data/secure_kvm.xml",
+		"/C/Users/ssuggs/AppData/Local/3D Sales Tool/Cache/Assets/families/Apollo8000_6Rack/FamilyConfig.xml",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Commercial/AppShell_Commercial.csproj",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/HP_3DSalesTool_EntCom.sln",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell_Enterprise/AppShell_Enterprise.csproj",
+		"/C/VS-Projects/HP_3DSalesTool_EntCom/AppShell/bin/Debug/Assets/Config.xml",
+		"/K/projects_2/HP3DSalesTool/AppShell/bin/Debug/AppShell.application",
+		"/K/projects_2/HP3DSalesTool/AppShell/bin/Debug/AppShell.exe.manifest",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/Installer/Interface/experience.html",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/Assets/Config.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/Families/SuperRack_SuperdomeX/FamilyConfig.xml",
+		"/C/VS-Projects/HP_ISS/HP_ISS/AppShell/bin/Debug/Assets/Families/Core_Servers_Gen9/ML110_Gen9/FamilyConfig.xml",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v4/sync/assets/Families/Integrity_Superdome_X/SuperRack_SuperdomeX/FamilyConfig.xml",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v4/sync/assets/Families/Core_Servers_Gen9/FamilyConfig.xml",
+		"/K/projects_2/afglobal/dev/27654_AFGlobal-FINAL_1280x720-mouse-app.xml",
+		"/C/Program Files (x86)/Adobe/Adobe Flash CS6/AIR17/bin/27654_AFGlobal-FINAL_1280x720-mouse-app.xml",
+		"/K/projects_2/stallion_hack/wp-config.php",
+		"/K/projects_2/afglobal/27398_afglobal_banners/720x90_May/27398_afglobal_720x90_may_r2.html",
+		"/K/projects_2/afglobal/27398_afglobal_banners/720x90_May/27398_afglobal_720x90_may.html",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v4/sync/assets/Families/Integrity_Superdome_X/FamilyConfig.xml",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v3.3.2/Sync/MasterConfig.xml",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v3.3.4/sync/assets/MasterConfig.xml",
+		"/C/Users/ssuggs/Desktop/27654_AFGlobal-FINAL_1280x720-mouse-app.xml",
+		"/L/HP/seq2vid/index.html",
+		"/C/Users/ssuggs/AppData/Local/3D Sales Tool/Cache/Assets/families/Density_Optimized_Gen9/FamilyConfig.xml",
+		"/C/Users/ssuggs/Desktop/experience.html",
+		"/C/projects/hp/3DST/Interface/JS/working/iss.core.js",
+		"/K/projects_2/SoundSensor/Readme.txt",
+		"/K/projects_2/afglobal/androidTest/helloWorld-app.xml",
+		"/C/Users/ssuggs/Desktop/temp.js",
+		"/C/Users/ssuggs/Desktop/tool.js",
+		"/C/Users/ssuggs/Desktop/iss.navigation.js",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/index.html",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/assets/css/app.css",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/assets/js/linksys-competitor-tool.js",
+		"/K/projects_2/kuraray/28289_samurai_digital_web_banners/dev/28289_728x90.html",
+		"/K/projects_2/kuraray/28289_samurai_digital_web_banners/dev/28289_300x250.html",
+		"/K/projects_2/kuraray/28289_samurai_digital_web_banners/dev/28289_300x600.html",
+		"/K/projects_2/hp/25116_HP_3D_sales_tool/productTemplate.xml",
+		"/K/projects_2/hp/25116_HP_3D_sales_tool/seq2vid/treehouse-custom-video-controls/treehouse-custom-video-controls/script.js",
+		"//IWEB/Web/_CHAOS/wwwxml/CHAOS/Staff-Directory.xml",
+		"/K/projects_2/belkin/27735_Linksys_Competitor_EMEA/R1/assets-emea/js/linksys-competitor-tool.js",
+		"//iweb/Web/25116_HP_3D_Sales_Tool/10_Releases/v3.3.2/Sync/Assets/Families/beta_prod_bad_2/FamilyConfig.xml",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/assets/data/rack_consoles.xml",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/assets/data/kvm_accessories.xml",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/assets/data/desktop_soho_kvm.xml",
+		"/C/projects/belkin/27865-belkin-kvm-competitor-tool/_dest/assets/data/analog_kvm.xml",
+		"/C/VS-Projects/HP3DSalesTool/AppShell/AppShell.csproj",
+		"/C/VS-Projects/HP3DSalesTool/HP_ISS.sln",
+		"/C/VS-Projects/HP_ISS/HP_ISS/HP_ISS.sln"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/images/",
+			"url",
+			"weather",
+			"parse",
+			"scene",
+			"camera",
+			"27398_afglobal_720x90_may_r3.swf",
+			"may_r2",
+			"F1DN104B",
+			"demo",
+			"loop",
+			"specs",
+			"AppShell_Enterprise",
+			"appshell",
+			"Appshell",
+			"resulting in better",
+			"hp ddr4",
+			"hp ddr",
+			"HP Smart Socket guide",
+			"hp smart socket guide",
+			"hp smart pocket guide",
+			"6125",
+			"g125",
+			"gl25",
+			"g125",
+			"ilo4",
+			"ilow 4",
+			"ilow4",
+			"iLO 4",
+			"ilo",
+			"ML110Gen9",
+			"\"></Image>",
+			"ml110",
+			"27398_afglobal_720x90_may",
+			"27398_afglobal_720x90_3",
+			"underfloor",
+			"loop",
+			"Apollo8000_6Rack_UnderfloorPlumbing",
+			"Apollo8000_6Rack_Landing_00000.jpg",
+			"loop=",
+			".web",
+			"video",
+			"PLAY THE VIDEO (after fade in)",
+			"frameRate",
+			"duration",
+			"playVid",
+			"transition",
+			"video",
+			"playVid",
+			"animateFramesCycle",
+			"animateTransitionFrames",
+			"    // $('video').each(function () {\n    //     this.currentTime = 0;\n    //     this.play();\n    // });\n",
+			"    $('video').each",
+			"playVid",
+			"frameRate",
+			"29)",
+			"29",
+			"29.97",
+			"console",
+			"vid2",
+			"vid1",
+			"vid2",
+			"console.log",
+			"2889",
+			"250",
+			"300",
+			"250",
+			"28289_300x600",
+			"28289_300x250",
+			"rewindSpeed",
+			"video",
+			"vid",
+			"seek-bar",
+			"populateCompetitorList",
+			"console",
+			"1990",
+			"startdate",
+			"specLabelList",
+			"reference",
+			"ReferencePath",
+			"Advanced-Secure-Windowing-SKVM-CAC",
+			"Advanced-Secure-Dual-Monitor-DVI-I-SKVM",
+			"F1DN104B",
+			"1.	F1DN104H",
+			"						<spec id=\"Operating-Voltage\" val=\" \" />",
+			"(B004-DUA2-K-R",
+			"						<spec id=\"Operating-Voltage\" val=\" \" />\n						<spec id=\"Input-Power\" val=\" \" />",
+			"2SV120BND1",
+			"TK-401R9V",
+			"TrendNET",
+			"TrendNET ",
+			"401R9V",
+			"TK-401R9V",
+			"TK-205K",
+			"2SV110BND1",
+			"CS1754",
+			"Operating Temp",
+			"[-4° to 140°F (-20° to 60°C)]",
+			"[32° to 104°F (0° to 40°C)]",
+			"2sv110bnd1",
+			"2v110bnd1",
+			"Yes w/",
+			"w/",
+			"[-4 to 140 °F (-20 to 60 °C)]",
+			"[32 to 104 °F (0 to 40 °C)]",
+			"[-4 to 140 °F (-20 to 60 °C)]",
+			"[32 to 104 °F (0 to 40 °C)]",
+			"[-4 to 140 °F (-20 to 60 °C)]",
+			"[32 to 104 °F (0 to 40 °C)]",
+			"[-4 to 140°F (-20 to 60°C)]",
+			"[32 to 122°F (0 to 50°C)]",
+			" to ",
+			" °C",
+			" °F",
+			"32",
+			"27398_afglobal_720x90",
+			"\"Gen9_FlexLOM_",
+			"Gen9_FlexLOM_",
+			"flexiblelom",
+			"Src=\" />",
+			"Gen9_FlexLOM_00160.jpg",
+			"160",
+			"27398_afglobal_720x90",
+			"$('#sidebar-left ul.children').show();",
+			"            $('#sidebar-left ul.children').show();",
+			"sidebar-left ul.children",
+			"sidebar-left-nav",
+			"15px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images/",
+			"iLO 4",
+			"iLO4",
+			"						<spec id=\"Operating-Voltage\" val=\"N/A\" />",
+			"						<spec id=\"Operating-Voltage\" val=\"N/A\" />\n						<spec id=\"Input-Power\" val=\"N/A\" />",
+			"Operating Temperature",
+			"-4° to 140°F (-20° to 60°C)",
+			"32° to 104°F (0° to 40°C)",
+			"Yes with",
+			"[-4° to 140°F (-20° to 60°C)]",
+			"[32° to 104°F (0° to 40°C)]",
+			"[-4° to 140°F (-20° to 60°C)]",
+			"[32° to 104°F (0° to 40°C)]",
+			"[-4° to 140°F (-20° to 60°C)]",
+			"[32° to 104°F (0° to 40°C)]",
+			"[-4° to 140°F (-20° to 60°C)]",
+			"[32° to 122°F (0° to 50°C)]",
+			"° to ",
+			"° to",
+			"°C",
+			"°F",
+			"and",
+			"cFrame",
+			" />",
+			"<Products>\n  <Product Name=\"\" Path=\"\"></Product>\n</Products>",
+			"<Products></Products>",
+			"<Specs></Specs>",
+			" />",
+			"cold storage backup",
+			"Apart from basic IT infrastructure workloads,",
+			"Apart from basic IT infrastructure workloads",
+			"cost-conscious",
+			"1GbE",
+			"<br>",
+			"Y=\"0\"",
+			"X=\"0\"",
+			" />"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nodeDemo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
